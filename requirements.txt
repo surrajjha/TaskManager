@@ -59,7 +59,7 @@ itsdangerous==1.1.0
 jedi==0.15.2
 Jinja2==2.10.3
 jsonschema==3.2.0
-jwcrypto==0.6.0
+jwcrypto==1.4
 keyring==17.1.1
 keyrings.alt==3.1.1
 language-selector==0.1
